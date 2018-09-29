@@ -1,2 +1,1 @@
-# SudokuSolver
-sudoku solver using node js
+# sudoku-1
